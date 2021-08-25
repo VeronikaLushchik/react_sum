@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,WACE,gCAAkC,CAClC,cAAe,CACf,iBAAkB","file":"main.dd1d1171.chunk.css","sourcesContent":[".listOfSum {\n  font-family: Helvetica, sans-serif;\n  font-size: 32px;\n  text-align: center;\n}\n"]}
